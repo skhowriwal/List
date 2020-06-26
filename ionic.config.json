@@ -1,0 +1,7 @@
+{
+  "name": "smart-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
